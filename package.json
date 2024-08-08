@@ -1,0 +1,33 @@
+{
+    "name": "cli4state",
+    "version": "1.0.0",
+    "description": "cli4state - 陈随易官方NPM项目模板下载工具",
+    "author": "chensuiyi <bimostyle@qq.com>",
+    "main": "./cli4state.js",
+    "type": "module",
+    "homepage": "https://chensuiyi.me",
+    "scripts": {},
+    "engines": {},
+    "keywords": [
+        "npm",
+        "download",
+        "package",
+        "npmjs"
+    ],
+    "private": false,
+    "publishConfig": {
+        "access": "public",
+        "registry": "https://registry.npmjs.org"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/chenbimo/cli4state.git"
+    },
+    "files": [
+        "README.md",
+        "package.json",
+        "LICENSE",
+        "cli4state.js",
+        "picocolors.js"
+    ]
+}
