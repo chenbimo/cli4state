@@ -1,9 +1,11 @@
 {
     "name": "cli4state",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "cli4state - 陈随易官方NPM项目模板下载工具",
     "author": "chensuiyi <bimostyle@qq.com>",
-    "main": "./cli4state.js",
+    "exports": {
+        ".": "./cli4state.js"
+    },
     "type": "module",
     "homepage": "https://chensuiyi.me",
     "scripts": {},

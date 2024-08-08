@@ -8,3 +8,8 @@
 -   **✔** 成功
 -   **⚠** 警告
 -   **✖** 错误
+
+## 参考
+
+-   https://www.npmjs.com/package/log-symbols
+-   https://www.npmjs.com/package/picocolors
